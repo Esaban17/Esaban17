@@ -9,15 +9,6 @@ on [HealthCare.com](https://www.healthcare.com/) as a Software Engineer.
 - Instagram | [esaban.js](https://www.instagram.com/esaban.js/)
 - Linkedln  | [Estuardo Sabán](www.linkedin.com/in/eesaban)
 
-
-### Projects with My Work
-
-
-
-
-### Tech Articles and Talks
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Esaban17&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
